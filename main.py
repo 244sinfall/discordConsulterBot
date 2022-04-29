@@ -3,7 +3,6 @@ import time
 from discord import Client, TextChannel, Guild
 
 import config
-import discord
 
 
 class Observer:
